@@ -85,4 +85,15 @@ Conclusion
 
 # The purpose of the analysis
 
-The goal is to gain a better understanding of the various factors that contribute to customer acquisition. Also, I can gain a deeper understanding of customer behavior, identify trends and patterns, and make data-driven decisions to optimize marketing strategies, product offerings, distribution channels, and promotional campaigns.
+The purpose of the project is to analyze and predict employee turnover within a company using machine learning techniques. The steps involved are as follows:
+
+1. Perform data quality check.
+2. Conduct exploratory data analysis to understand factors contributing to turnover.
+3. Cluster employees who left based on satisfaction and evaluation.
+4. Address class imbalance using the SMOTE technique.
+5. Perform 5-fold cross-validation and train models (Logistic Regression, Random Forest, Gradient Boosting).
+6. Evaluate models using ROC/AUC scores, ROC curves, and confusion matrices.
+7. Determine the appropriate evaluation metric (recall or precision) based on the confusion matrix.
+8. Provide retention strategies for targeted employees.
+
+The goal is to identify the best model for predicting turnover and offer insights to retain valuable employees.
